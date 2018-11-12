@@ -3,8 +3,8 @@
 
 http://mdecourse.github.io/2018fall/
 
-分組網誌: https://github.com/scrum-1/scrum-1.github.io
+cpg8網站: http://mde.tw/2018fall/content/index.html
 
-分組投影片: https://github.com/scrum-1/scrum-1.github.io/wiki
+cpg8網誌: http://mde.tw/2018fall/blog/index.html
 
-分組網站: https://cpgx.kmol.info
+cpg8投影片: http://mde.tw/2018fall/reveal/index.html#/
