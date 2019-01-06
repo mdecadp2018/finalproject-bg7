@@ -21,8 +21,33 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20190106143811.1"><vh>封面投影片</vh>
-<v t="leo.20190106143811.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20190106203522.1"><vh>封面投影片</vh>
+<v t="leo.20190106203522.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20190106143811.1"><vh>機械手臂內容</vh>
+<v t="leo.20190106203718.1"><vh>前言</vh>
+<v t="leo.20190106203718.2"><vh>前言</vh></v>
+</v>
+<v t="leo.20190106203723.1"><vh>摘要</vh>
+<v t="leo.20190106203723.2"><vh>摘要</vh></v>
+</v>
+</v>
+<v t="leo.20190106203534.1"><vh>機械手臂各部位</vh>
+<v t="leo.20190106205805.1"><vh>底座</vh>
+<v t="leo.20190106205805.2"><vh>內容1</vh></v>
+</v>
+<v t="leo.20190106205802.1"><vh>懸臂</vh>
+<v t="leo.20190106205802.2"><vh>內容2</vh></v>
+</v>
+<v t="leo.20190106203532.1"><vh>馬達</vh>
+<v t="leo.20190106203532.2"><vh>內容3</vh></v>
+</v>
+<v t="leo.20190106203525.1"><vh>夾爪</vh>
+<v t="leo.20190106203525.2"><vh>內容4</vh></v>
+</v>
+<v t="leo.20190106210015.1"><vh>模擬</vh>
+<v t="leo.20190106210015.2"><vh>內容5</vh></v>
+</v>
 </v>
 <v t="leo.20190106143809.1"><vh>W10</vh>
 <v t="leo.20190106143809.2"><vh>w10</vh></v>
@@ -30,50 +55,50 @@
 <v t="leo.20180827201621.9"><vh>W11</vh>
 <v t="leo.20180827201621.10"><vh>w11</vh></v>
 </v>
-<v t="leo.20190105023402.1" a="E"><vh>W12</vh>
-<v t="leo.20190106122431.1" a="E"><vh>W12</vh>
+<v t="leo.20190105023402.1"><vh>W12</vh>
+<v t="leo.20190106122431.1"><vh>W12手臂</vh>
 <v t="leo.20190106122431.2"><vh>機械手臂</vh></v>
 </v>
-<v t="leo.20190105145133.1" a="E"><vh>W12Onshape</vh>
+<v t="leo.20190105145133.1"><vh>W12Onshape</vh>
 <v t="leo.20190105145133.2"><vh>Onshape</vh></v>
 </v>
 </v>
-<v t="leo.20190105023401.1" a="E"><vh>W13</vh>
-<v t="leo.20190106122501.1" a="E"><vh>W13手臂</vh>
+<v t="leo.20190105023401.1"><vh>W13</vh>
+<v t="leo.20190106122501.1"><vh>W13手臂</vh>
 <v t="leo.20190106122501.2"><vh>機械手臂</vh></v>
 </v>
-<v t="leo.20190105145646.1" a="E"><vh>W13Onshape</vh>
+<v t="leo.20190105145646.1"><vh>W13Onshape</vh>
 <v t="leo.20190105145646.2"><vh>Onshape</vh></v>
 </v>
 </v>
-<v t="leo.20190105023357.1" a="E"><vh>W14</vh>
-<v t="leo.20190106122526.1" a="E"><vh>W14手臂</vh>
+<v t="leo.20190105023357.1"><vh>W14</vh>
+<v t="leo.20190106122526.1"><vh>W14手臂</vh>
 <v t="leo.20190106122526.2"><vh>機械手臂</vh></v>
 </v>
-<v t="leo.20190106104326.1" a="E"><vh>W14成果</vh>
+<v t="leo.20190106104326.1"><vh>W14成果</vh>
 <v t="leo.20190106104326.2"><vh>學習成果</vh></v>
 </v>
 </v>
-<v t="leo.20190105023356.1" a="E"><vh>W15</vh>
-<v t="leo.20190106122548.1" a="E"><vh>W15手臂</vh>
+<v t="leo.20190105023356.1"><vh>W15</vh>
+<v t="leo.20190106122548.1"><vh>W15手臂</vh>
 <v t="leo.20190106122548.2"><vh>機械手臂</vh></v>
 </v>
-<v t="leo.20190106105331.1" a="E"><vh>W15成果</vh>
+<v t="leo.20190106105331.1"><vh>W15成果</vh>
 <v t="leo.20190106105331.2"><vh>學習成果</vh></v>
 </v>
 </v>
 <v t="leo.20190105023350.1" a="E"><vh>W16</vh>
-<v t="leo.20190106122621.1" a="E"><vh>W16手臂</vh>
+<v t="leo.20190106122621.1"><vh>W16手臂</vh>
 <v t="leo.20190106122621.2"><vh>機械手臂</vh></v>
 </v>
 <v t="leo.20190106105329.1" a="E"><vh>W16PDF</vh>
 <v t="leo.20190106105329.2"><vh>PDF</vh></v>
 </v>
 </v>
-<v t="leo.20190105023348.1" a="E"><vh>W17</vh>
+<v t="leo.20190105023348.1"><vh>W17</vh>
 <v t="leo.20190105023348.2"><vh>12/31放假</vh></v>
 </v>
-<v t="leo.20180827201621.11" a="E"><vh>W18</vh>
+<v t="leo.20180827201621.11"><vh>W18</vh>
 <v t="leo.20180827201621.12"><vh>心得總結</vh></v>
 </v>
 </v>
@@ -169,10 +194,6 @@ vertical: body pane on the botton</t>
 * 2.各組員自行蒐集機械手臂設計之文獻，並確定好要做的機械手臂類型
 
 * 3.我們決定先分工下禮拜開始製作屬於自己的那一部份
-
-我們決定機械手臂的前因是因為我們看到街上有許多夾娃娃機的檯子，那如何夾娃娃呢!就是靠著娃娃機上面的夾爪，於是乎我們這組就決定做機械手臂了。
-
-
 
 </t>
 <t tx="leo.20180827201621.11">&lt;section data-markdown&gt;
@@ -295,7 +316,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20190105023348.2">## W17
 
-* 這周過完就要期末考周了，好好準備期末考，等待考完試後又是一個寒假，必須得做一個好好的衝刺不要因為快放假了就鬆了心，加油
+* 這週過完就要期末考週了，好好準備期末考，等待考完試後又是一個寒假，必須得做一個好好的衝刺不要因為快放假了就鬆了心，加油
 
 
 &lt;p&gt;&lt;i&gt;&lt;font face="serif" color="#77FF00"size="6" &gt;頑張りましょう(gan ban ri ma shou)&lt;/font&gt;&lt;/i&gt;&lt;/p&gt;
@@ -391,7 +412,9 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20190106105329.2">## W16
 
-*</t>
+終於把PDF做到有一定的樣子，雖然不是事事順利，但最難的部分不過於就是選題材與要做的主題，一旦有了方向就很好去往那個方向去找延伸的資料，並且去尋找不同類型的來比對利與弊
+
+</t>
 <t tx="leo.20190106105331.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -524,7 +547,16 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20190106143811.2">## 2018 Fall Finalproject-bg7 分組網際簡報
+<t tx="leo.20190106203522.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190106203522.2">## 2018 Fall Finalproject-bg7      分組網際簡報
 
 ### 虎科大機械設計工程系
 
@@ -535,6 +567,108 @@ Created by [KMOLab](http://lab.kmol.info/)
 [2018 Fall Finalproject-bg7](https://mdecadp2018.github.io/finalproject-bg7/blog/index.html)
 
 
+</t>
+<t tx="leo.20190106203525.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190106203525.2">## 夾爪
+
+夾爪為機械手臂夾取物品之原件，而此夾爪可平放也可夾取物品，全靠夾爪底座的旋轉方向。夾爪靈感來源於夾娃娃機上的機械手臂因此有了此想法
+&lt;img src=https://imgur.com/7anonw8 &lt;width="252" heith="316"&gt;&lt;/a&gt;</t>
+<t tx="leo.20190106203532.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190106203532.2">## 馬達
+
+馬達為機械手臂的動力來源
+&lt;img src=https://imgur.com/Lk08ivn &lt;width="252" heith="316"&gt;&lt;/a&gt;
+&lt;img src=https://imgur.com/Uawbs8V &lt;width="252" heith="316"&gt;&lt;/a&gt;</t>
+<t tx="leo.20190106203534.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190106203718.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190106203718.2">## 前言
+</t>
+<t tx="leo.20190106203723.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190106203723.2">## 摘要
+
+有鑑於工業4.0發展，現今許多工廠採用無人化工廠，此機械手臂可將架上物品拿下並轉向放置於指定桌面，可減省許多時間與流程</t>
+<t tx="leo.20190106205802.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190106205802.2">## 懸臂
+
+懸臂為使機械手臂能更多樣的移動之基礎，而此懸臂中間都有挖空之設計，其為減少材料與降低懸臂之重
+&lt;img src=https://imgur.com/ugZTnm4 &lt;width="252" heith="316"&gt;&lt;/a&gt;
+&lt;img src=https://imgur.com/x89Wa7Y &lt;width="252" heith="316"&gt;&lt;/a&gt;
+&lt;img src=https://imgur.com/Ac2y7nN &lt;width="252" heith="316"&gt;&lt;/a&gt;</t>
+<t tx="leo.20190106205805.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190106205805.2">## 底座
+
+底座為固定與穩固此機械手臂之用途，本座外的3個孔可與地面用螺絲加以固定
+&lt;img src=https://imgur.com/rUDmwmh &lt;width="252" heith="316"&gt;&lt;/a&gt;
+&lt;img src=https://imgur.com/5bXMKb2 &lt;width="252" heith="316"&gt;&lt;/a&gt;</t>
+<t tx="leo.20190106210015.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190106210015.2">## 模擬
+
+V-rep是機器人模擬器，有六種編程方法，七種編程語言以及四種物理影引擎，是最完善的模擬系統，在一開始要先把STL圖檔拉進來，並且分解，分解完後再進行旋轉軸、伸縮軸，加入後再進行組件連結，連結完就可進行腳本的編寫
+&lt;img src=https://imgur.com/grsmYiC &lt;width="252" heith="316"&gt;&lt;/a&gt;
 </t>
 </tnodes>
 </leo_file>
