@@ -24,13 +24,13 @@
 <v t="leo.20190106143811.1"><vh>封面投影片</vh>
 <v t="leo.20190106143811.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20190106143809.1" a="E"><vh>W10</vh>
+<v t="leo.20190106143809.1"><vh>W10</vh>
 <v t="leo.20190106143809.2"><vh>w10</vh></v>
 </v>
-<v t="leo.20180827201621.9" a="E"><vh>W11</vh>
+<v t="leo.20180827201621.9"><vh>W11</vh>
 <v t="leo.20180827201621.10"><vh>w11</vh></v>
 </v>
-<v t="leo.20190105023402.1" a="E"><vh>W12</vh>
+<v t="leo.20190105023402.1"><vh>W12</vh>
 <v t="leo.20190106122431.1" a="E"><vh>W12</vh>
 <v t="leo.20190106122431.2"><vh>機械手臂</vh></v>
 </v>
@@ -38,11 +38,11 @@
 <v t="leo.20190105145133.2"><vh>Onshape</vh></v>
 </v>
 </v>
-<v t="leo.20190105023401.1" a="E"><vh>W13</vh>
-<v t="leo.20190106122501.1" a="E"><vh>W13手臂</vh>
+<v t="leo.20190105023401.1"><vh>W13</vh>
+<v t="leo.20190106122501.1"><vh>W13手臂</vh>
 <v t="leo.20190106122501.2"><vh>機械手臂</vh></v>
 </v>
-<v t="leo.20190105145646.1" a="E"><vh>W13Onshape</vh>
+<v t="leo.20190105145646.1"><vh>W13Onshape</vh>
 <v t="leo.20190105145646.2"><vh>Onshape</vh></v>
 </v>
 </v>
@@ -175,9 +175,14 @@ vertical: body pane on the botton</t>
 
 
 </t>
-<t tx="leo.20180827201621.11">@others
+<t tx="leo.20180827201621.11">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
 &lt;/section&gt;
 
+
+						
 </t>
 <t tx="leo.20180827201621.12">
 這次的專題報告，雖然育到了許許多多的困難，比如:一開始做機械手臂的時候，就遇到了設計手臂上的困難，查詢了許多的文獻以及別人的資訊才慢慢畫出一個模樣、還有小組分工上溝通的問題……等
@@ -278,11 +283,14 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20190105023348.1">@others
+<t tx="leo.20190105023348.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
 &lt;/section&gt;
 
-&lt;section&gt;
-# w18
+
+						
 </t>
 <t tx="leo.20190105023348.2">
 * 這周過完就要期末考周了，好好準備期末考，等待考完試後又是一個寒假，必須得做一個好好的衝刺不要因為快放假了就鬆了心，加油
@@ -291,70 +299,37 @@ vertical: body pane on the botton</t>
 &lt;p&gt;&lt;i&gt;&lt;font face="serif" color="#77FF00"size="6" &gt;頑張りましょう(gan ban ri ma shou)&lt;/font&gt;&lt;/i&gt;&lt;/p&gt;
 
 </t>
-<t tx="leo.20190105023350.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
+<t tx="leo.20190105023350.1">&lt;section&gt;
 @others
-						
-&lt;/section&gt;
-
-&lt;section&gt;
-## w17 work-pdf
-</t>
-<t tx="leo.20190105023356.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20190105023356.1">&lt;section&gt;
 @others
-
-						
-&lt;/section&gt;
-
-&lt;section&gt;
-</t>
-<t tx="leo.20190105023357.1">    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20190105023357.1">&lt;section&gt;
 @others
-
-						
-&lt;/section&gt;
-
-&lt;section&gt;
-</t>
-<t tx="leo.20190105023401.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20190105023401.1">&lt;section&gt;
 @others
-						
-&lt;/section&gt;
-
-&lt;section&gt;
-&lt;section data-markdown&gt;
-</t>
-<t tx="leo.20190105023402.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20190105023402.1">&lt;section&gt;
 @others
-						
-&lt;/section&gt;
-
-&lt;section&gt;
-&lt;section data-markdown&gt;</t>
-<t tx="leo.20190105145133.1">
-						
-&lt;section data-markdown&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20190105145133.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
-
     &lt;/script&gt;
 &lt;/section&gt;
 
 
-</t>
+						</t>
 <t tx="leo.20190105145133.2">## W12
 
 * Onshape嘗試去摸索各種功能
 
 * 尋找看看與Inventor有哪些功能上的不同
 </t>
-<t tx="leo.20190105145646.1">						
-&lt;section data-markdown&gt;
+<t tx="leo.20190105145646.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
@@ -362,8 +337,7 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 
 
-
-</t>
+						</t>
 <t tx="leo.20190105145646.2">## W13
 
 * Onshape的畫圖能力又進步了一點點
@@ -371,31 +345,28 @@ vertical: body pane on the botton</t>
 * 這周新增了出缺席表格，讓我們在網站設計的知識又獲得了一項技能
 
 </t>
-<t tx="leo.20190106104326.1">
-						
-&lt;section data-markdown&gt;
+<t tx="leo.20190106104326.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
-
     &lt;/script&gt;
 &lt;/section&gt;
 
 
-</t>
+						</t>
 <t tx="leo.20190106104326.2">## W14
 
 * 這周因為12/31補課，禮拜四晚上也可以到學校討論報告如何進行與執行
 </t>
-<t tx="leo.20190106105329.1">
-						
+<t tx="leo.20190106105329.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;
 
 
-
-</t>
+						</t>
 <t tx="leo.20190106105329.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -404,37 +375,28 @@ vertical: body pane on the botton</t>
 * 
 
 </t>
-<t tx="leo.20190106105331.1">
-						
-&lt;section data-markdown&gt;
+<t tx="leo.20190106105331.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
-
     &lt;/script&gt;
 &lt;/section&gt;
 
 
-</t>
+						</t>
 <t tx="leo.20190106105331.2">## W15
 
 * 再推網站的時候，可能是因為同時間推送的問題，網頁整個亂掉連內容原本該有的都不見了，於是請組長重新幫忙排版其他組員想著原本的內容並把它重新推送。
 </t>
-<t tx="leo.20190106122431.1">
-						
-&lt;section data-markdown&gt;
+<t tx="leo.20190106122431.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
-
     &lt;/script&gt;
 &lt;/section&gt;
 
 
-
-
-
-</t>
+						</t>
 <t tx="leo.20190106122431.2"># W12
 
 * 將一些機械手臂的零件設計出來
@@ -445,14 +407,15 @@ vertical: body pane on the botton</t>
 
 * 3.手臂
 </t>
-<t tx="leo.20190106122501.1">&lt;!-- 請注意, @others 不可以內縮 --&gt;
+<t tx="leo.20190106122501.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;
 
 
-
-</t>
+						</t>
 <t tx="leo.20190106122501.2"># W13
 
 * 繪出機械手臂的剩餘零件並組裝完成
@@ -464,24 +427,28 @@ vertical: body pane on the botton</t>
 * 利用V-rep丟進去模擬
 
 </t>
-<t tx="leo.20190106122526.1">@others
-
+<t tx="leo.20190106122526.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
     &lt;/script&gt;
 &lt;/section&gt;
 
 
-</t>
+						</t>
 <t tx="leo.20190106122526.2"># W14
 
 * 由於我們機械手臂大致上畫出來了但是模擬上出了一些問題，於是乎嘗試著去調整路徑看能不能有所領悟出一些東西
 </t>
-<t tx="leo.20190106122548.1">&lt;!-- 請注意, @others 不可以內縮 --&gt;
+<t tx="leo.20190106122548.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
-
     &lt;/script&gt;
 &lt;/section&gt;
 
 
+						
 </t>
 <t tx="leo.20190106122548.2"># W15
 
@@ -489,15 +456,15 @@ vertical: body pane on the botton</t>
 
 * 希望能在下周之前就把機械手臂的模擬弄完，不然有可能會非常的趕
 </t>
-<t tx="leo.20190106122621.1">&lt;!-- 請注意, @others 不可以內縮 --&gt;
-# w16
+<t tx="leo.20190106122621.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
-
     &lt;/script&gt;
 &lt;/section&gt;
 
 
-</t>
+						</t>
 <t tx="leo.20190106122621.2">
 * 遇到了最大的困難，程式始終無法做動到自己預期的位置，又因為夾爪不太方便做動的問題，重新製做了一個新的夾爪
 
