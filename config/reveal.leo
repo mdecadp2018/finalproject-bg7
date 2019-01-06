@@ -30,7 +30,7 @@
 <v t="leo.20180827201621.9" a="E"><vh>W11</vh>
 <v t="leo.20180827201621.10"><vh>w11</vh></v>
 </v>
-<v t="leo.20190105023402.1"><vh>W12</vh>
+<v t="leo.20190105023402.1" a="E"><vh>W12</vh>
 <v t="leo.20190106122431.1"><vh>W12</vh>
 <v t="leo.20190106122431.2"><vh>機械手臂</vh></v>
 </v>
@@ -327,14 +327,14 @@ vertical: body pane on the botton</t>
 &lt;section&gt;
 &lt;section data-markdown&gt;
 </t>
-<t tx="leo.20190105023402.1">&lt;!-- 請注意, @others 不可以內縮 --&gt;
+<t tx="leo.20190105023402.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
 @others
-
 						
 &lt;/section&gt;
 
 &lt;section&gt;
-</t>
+&lt;section data-markdown&gt;</t>
 <t tx="leo.20190105145133.1">
 						
 &lt;section data-markdown&gt;
