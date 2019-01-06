@@ -391,7 +391,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20190105145133.2">
+<t tx="leo.20190105145133.2">##W12
 
 *Onshape嘗試去摸索各種功能
 
@@ -406,7 +406,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20190105145646.2">
+<t tx="leo.20190105145646.2">##W13
 
 * Onshape的畫圖能力又進步了一點點
 
@@ -422,7 +422,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20190106104326.2">
+<t tx="leo.20190106104326.2">##W14
 
 *這周因為12/31補課，禮拜四晚上也可以到學校討論報告如何進行與執行
 </t>
@@ -435,7 +435,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20190106105329.2">
+<t tx="leo.20190106105329.2">##W16
 
 * 
 
@@ -449,7 +449,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20190106105331.2">
+<t tx="leo.20190106105331.2">##W15
 
 * 再推網站的時候，可能是因為同時間推送的問題，網頁整個亂掉連內容原本該有的都不見了，於是請組長重新幫忙排版其他組員想著原本的內容並把它重新推送。
 </t>
