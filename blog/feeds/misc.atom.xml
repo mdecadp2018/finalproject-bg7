@@ -1,78 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌 - Misc</title><link href="https://mdecourse.github.io/2018fall/blog/" rel="alternate"></link><link href="https://mdecourse.github.io/2018fall/blog/feeds/misc.atom.xml" rel="self"></link><id>https://mdecourse.github.io/2018fall/blog/</id><updated>2018-12-31T11:00:00+08:00</updated><entry><title>2018 Fall 分組網誌第十七周</title><link href="https://mdecourse.github.io/2018fall/blog/2018-Fall-Project-Blog-w17.html" rel="alternate"></link><published>2018-12-31T11:00:00+08:00</published><updated>2018-12-31T11:00:00+08:00</updated><author><name>blog</name></author><id>tag:mdecourse.github.io,2018-12-31:/2018fall/blog/2018-Fall-Project-Blog-w17.html</id><summary type="html">&lt;p&gt;第十七周&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;第十七周&lt;/p&gt;
-
-
-&lt;h2&gt;課程進度：&lt;/h2&gt;
-&lt;p&gt;1.網站新增Onshape簡介及繪圖影片&lt;/p&gt;
-&lt;p&gt;2.新增 Final Report &lt;/p&gt;
-&lt;hr&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 分組網誌第十六周</title><link href="https://mdecourse.github.io/2018fall/blog/2018-Fall-Project-Blog-w16.html" rel="alternate"></link><published>2018-12-24T11:00:00+08:00</published><updated>2018-12-24T11:00:00+08:00</updated><author><name>blog</name></author><id>tag:mdecourse.github.io,2018-12-24:/2018fall/blog/2018-Fall-Project-Blog-w16.html</id><summary type="html">&lt;p&gt;第十六周&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;第十六周&lt;/p&gt;
-
-
-&lt;h2&gt;課程進度：&lt;/h2&gt;
-&lt;p&gt;1.修改為六軸機械手臂,並測試程式、進行模擬。&lt;/p&gt;
-&lt;p&gt;2.持續修改網站內容&lt;/p&gt;
-&lt;hr&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 分組網誌第十五周</title><link href="https://mdecourse.github.io/2018fall/blog/2018-Fall-Project-Blog-w15.html" rel="alternate"></link><published>2018-12-17T11:00:00+08:00</published><updated>2018-12-17T11:00:00+08:00</updated><author><name>blog</name></author><id>tag:mdecourse.github.io,2018-12-17:/2018fall/blog/2018-Fall-Project-Blog-w15.html</id><summary type="html">&lt;p&gt;第十五周&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;第十五周&lt;/p&gt;
-
-
-&lt;h2&gt;課程進度：&lt;/h2&gt;
-&lt;p&gt;1.持續進行模擬及修改網站內容&lt;/p&gt;
-&lt;hr&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 分組網誌第十四周</title><link href="https://mdecourse.github.io/2018fall/blog/2018-Fall-Project-Blog-w14.html" rel="alternate"></link><published>2018-12-10T11:00:00+08:00</published><updated>2018-12-10T11:00:00+08:00</updated><author><name>blog</name></author><id>tag:mdecourse.github.io,2018-12-10:/2018fall/blog/2018-Fall-Project-Blog-w14.html</id><summary type="html">&lt;p&gt;第十四周&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;第十四周&lt;/p&gt;
-
-
-&lt;h2&gt;課程進度：&lt;/h2&gt;
-&lt;p&gt;1.將所有零件進行組裝及配置 , 並進行模擬&lt;/p&gt;
-&lt;p&gt;2.持續修改網站內容&lt;/p&gt;
-&lt;hr&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 分組網誌第十三周</title><link href="https://mdecourse.github.io/2018fall/blog/2018-Fall-Project-Blog-w13.html" rel="alternate"></link><published>2018-12-03T11:00:00+08:00</published><updated>2018-12-03T11:00:00+08:00</updated><author><name>blog</name></author><id>tag:mdecourse.github.io,2018-12-03:/2018fall/blog/2018-Fall-Project-Blog-w13.html</id><summary type="html">&lt;p&gt;第十三周&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;第十三周&lt;/p&gt;
-
-
-&lt;h2&gt;課程進度：&lt;/h2&gt;
-&lt;p&gt;繪出機械手臂的剩餘零件並組裝完成&lt;/p&gt;
-&lt;p&gt;1.伺服馬達x3&lt;/p&gt;
-&lt;p&gt;2.手臂(3)&lt;/p&gt;
-&lt;p&gt;3.整體機械手臂駔裝完成&lt;/p&gt;
-&lt;hr&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 分組網誌第十二周</title><link href="https://mdecourse.github.io/2018fall/blog/2018-Fall-Project-Blog-w12.html" rel="alternate"></link><published>2018-11-26T11:00:00+08:00</published><updated>2018-11-26T11:00:00+08:00</updated><author><name>blog</name></author><id>tag:mdecourse.github.io,2018-11-26:/2018fall/blog/2018-Fall-Project-Blog-w12.html</id><summary type="html">&lt;p&gt;第十二周&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;第十二周&lt;/p&gt;
-
-
-&lt;h2&gt;課程進度：&lt;/h2&gt;
-&lt;p&gt;將一些機械手臂的零件設計出來&lt;/p&gt;
-&lt;p&gt;1.基本底座&lt;/p&gt;
-&lt;p&gt;2.底部旋轉軸&lt;/p&gt;
-&lt;p&gt;3.手臂(1)&lt;/p&gt;
-&lt;p&gt;4.手臂(2)&lt;/p&gt;
-&lt;hr&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 分組網誌第十一周</title><link href="https://mdecourse.github.io/2018fall/blog/2018-Fall-Project-Blog-w11.html" rel="alternate"></link><published>2018-11-19T11:00:00+08:00</published><updated>2018-11-19T11:00:00+08:00</updated><author><name>blog</name></author><id>tag:mdecourse.github.io,2018-11-19:/2018fall/blog/2018-Fall-Project-Blog-w11.html</id><summary type="html">&lt;p&gt;第十一周&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;第十一周&lt;/p&gt;
-
-
-&lt;h2&gt;課程進度：&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;bg7專題題目—機械手臂&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;各組員自行蒐集機械手臂設計之文獻，並確定好要做的機械手臂類型&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;hr&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 分組網誌第十周</title><link href="https://mdecourse.github.io/2018fall/blog/2018-Fall-Project-Blog-w10.html" rel="alternate"></link><published>2018-11-12T11:00:00+08:00</published><updated>2018-11-12T11:00:00+08:00</updated><author><name>blog</name></author><id>tag:mdecourse.github.io,2018-11-12:/2018fall/blog/2018-Fall-Project-Blog-w10.html</id><summary type="html">&lt;p&gt;第十周&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;第十周&lt;/p&gt;
-
-
-&lt;h2&gt;課程進度：&lt;/h2&gt;
-&lt;p&gt;1.更新p37&amp;gt;&amp;gt;P37-18.11:https://drive.google.com/file/d/17FpZJrwARPH3_ql4b7d-I4RyJo9vT2Xu/view&lt;/p&gt;
-&lt;p&gt;2.各組討論分組主題&lt;/p&gt;
-&lt;p&gt;3.更改網站簡介及blog&lt;/p&gt;
-&lt;hr&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 分組網誌第九周</title><link href="https://mdecourse.github.io/2018fall/blog/2018-Fall-Project-Blog-w9.html" rel="alternate"></link><published>2018-11-05T11:00:00+08:00</published><updated>2018-11-05T11:00:00+08:00</updated><author><name>blog</name></author><id>tag:mdecourse.github.io,2018-11-05:/2018fall/blog/2018-Fall-Project-Blog-w9.html</id><summary type="html">&lt;p&gt;第九周&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌 - Misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2018-11-05T11:00:00+08:00</updated><entry><title>2018 Fall 個人網誌第九周</title><link href="./2018-Fall-Project-Blog-w9.html" rel="alternate"></link><published>2018-11-05T11:00:00+08:00</published><updated>2018-11-05T11:00:00+08:00</updated><author><name>blog</name></author><id>tag:None,2018-11-05:./2018-Fall-Project-Blog-w9.html</id><summary type="html">&lt;p&gt;第九周&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;第九周&lt;/p&gt;
 
 
-&lt;h2&gt;課程進度：&lt;/h2&gt;
+&lt;h2&gt;課程影片：&lt;/h2&gt;
+&lt;h2&gt;課程說明：&lt;/h2&gt;
 &lt;p&gt;1.更改README.MD&lt;/p&gt;
-&lt;hr&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 分組網誌</title><link href="https://mdecourse.github.io/2018fall/blog/2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecourse.github.io,2018-09-10:/2018fall/blog/2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+&lt;h2&gt;自我評量：70分&lt;/h2&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 分組網誌</title><link href="./2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-09-10:./2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 
 
@@ -84,12 +18,4 @@
 &lt;h2&gt;該學習哪種程式語言?&lt;/h2&gt;
 &lt;p&gt;C/C++、Python、Lua 或 Javascript?&lt;/p&gt;
 &lt;p&gt;都可以.&lt;/p&gt;
-&lt;p&gt;在這裡, 學 C/C++ 是為了編寫 Arduino 控制程式, 以及結合 Qt5 建立各種能快速進行工程分析的程式庫, 學習 Python 是為了快速完成 C/C++ 無法迅速完成的分析、模擬與運算, 也能透過 PyQt5 建立視窗程式, 或者呼叫 Flask 建立能在網際環境中執行的協同設計套件. 學習 Lua 是為了能在 V-rep 中使用, 至於 Javascript, 已經無所不在, 尤其在網際成是開發過程, 更是重要, 有其學習的必要性.&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 分組網誌第十八周</title><link href="https://mdecourse.github.io/2018fall/blog/2018-Fall-Project-Blog-w18.html" rel="alternate"></link><published>2018-01-07T11:00:00+08:00</published><updated>2018-01-07T11:00:00+08:00</updated><author><name>blog</name></author><id>tag:mdecourse.github.io,2018-01-07:/2018fall/blog/2018-Fall-Project-Blog-w18.html</id><summary type="html">&lt;p&gt;第十八周&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;第十八周&lt;/p&gt;
-
-
-&lt;h2&gt;課程進度：&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;期末考週，完成期末報告，並上台解說組別專題內容及進度。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;hr&gt;</content><category term="2018Fall"></category></entry></feed>
+&lt;p&gt;在這裡, 學 C/C++ 是為了編寫 Arduino 控制程式, 以及結合 Qt5 建立各種能快速進行工程分析的程式庫, 學習 Python 是為了快速完成 C/C++ 無法迅速完成的分析、模擬與運算, 也能透過 PyQt5 建立視窗程式, 或者呼叫 Flask 建立能在網際環境中執行的協同設計套件. 學習 Lua 是為了能在 V-rep 中使用, 至於 Javascript, 已經無所不在, 尤其在網際成是開發過程, 更是重要, 有其學習的必要性.&lt;/p&gt;</content><category term="2018Fall"></category></entry></feed>
