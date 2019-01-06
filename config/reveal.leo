@@ -21,60 +21,60 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181203101543.1"><vh>w10 </vh>
-<v t="leo.20181203101543.3"><vh>更新環境</vh></v>
+<v t="leo.20190105023410.1" a="E"><vh>W10</vh>
+<v t="leo.20190105023410.2"><vh>更新環境</vh></v>
 </v>
-<v t="leo.20181203102656.1"><vh>w11 </vh>
-<v t="leo.20181203102656.3"><vh>主題</vh></v>
+<v t="leo.20190105023409.1" a="E"><vh>W11</vh>
+<v t="leo.20190105023409.2"><vh>主題</vh></v>
 </v>
-<v t="leo.20181203105101.1"><vh>w12 </vh>
-<v t="leo.20181203105101.2" a="E"><vh>w12 手臂</vh>
-<v t="leo.20181203105101.3"><vh>機械手臂</vh></v>
+<v t="leo.20190105023402.1" a="E"><vh>W12</vh>
+<v t="leo.20190106122431.1" a="E"><vh>W12</vh>
+<v t="leo.20190106122431.2"><vh>機械手臂</vh></v>
 </v>
-<v t="leo.20181203105101.4" a="E"><vh>w12 Onshape</vh>
-<v t="leo.20181203105101.5"><vh>Onshape</vh></v>
-</v>
-</v>
-<v t="leo.20181203105102.1"><vh>w13</vh>
-<v t="leo.20181203105102.2"><vh>w13 手臂</vh>
-<v t="leo.20181203105102.3"><vh>機械手臂</vh></v>
-</v>
-<v t="leo.20181203105102.4"><vh>w13 Onshape</vh>
-<v t="leo.20181203105102.5"><vh>Onshape</vh></v>
+<v t="leo.20190105145133.1" a="E"><vh>W12Onshape</vh>
+<v t="leo.20190105145133.2"><vh>Onshape</vh></v>
 </v>
 </v>
-<v t="leo.20181210094359.1"><vh>w14 </vh>
-<v t="leo.20181210094359.2"><vh>w14 手臂</vh>
-<v t="leo.20181210094359.3"><vh>機械手臂</vh></v>
+<v t="leo.20190105023401.1" a="E"><vh>W13</vh>
+<v t="leo.20190106122501.1" a="E"><vh>W13手臂</vh>
+<v t="leo.20190106122501.2"><vh>機械手臂</vh></v>
 </v>
-<v t="leo.20181210094359.4"><vh>w14 成果</vh>
-<v t="leo.20181210094359.5"><vh>Onshape</vh></v>
-</v>
-</v>
-<v t="leo.20181217113813.1"><vh>w15 </vh>
-<v t="leo.20181217113813.2"><vh>w15 手臂</vh>
-<v t="leo.20181217113813.3"><vh>機械手臂</vh></v>
-</v>
-<v t="leo.20181217113813.4"><vh>w15 成果</vh>
-<v t="leo.20181217113813.5"><vh>學習成果</vh></v>
+<v t="leo.20190105145646.1" a="E"><vh>W13Onshape</vh>
+<v t="leo.20190105145646.2"><vh>Onshape</vh></v>
 </v>
 </v>
-<v t="leo.20181224114546.1"><vh>w16 </vh>
-<v t="leo.20181224114546.2"><vh>w16 手臂</vh>
-<v t="leo.20181224114546.3"><vh>機械手臂</vh></v>
+<v t="leo.20190105023357.1"><vh>W14</vh>
+<v t="leo.20190106122526.1" a="E"><vh>W14手臂</vh>
+<v t="leo.20190106122526.2"><vh>機械手臂</vh></v>
 </v>
-<v t="leo.20181224114546.4"><vh>w16 PDF</vh>
-<v t="leo.20181224114546.5"><vh>PDF</vh></v>
+<v t="leo.20190106104326.1" a="E"><vh>W14成果</vh>
+<v t="leo.20190106104326.2"><vh>學習成果</vh></v>
 </v>
 </v>
-<v t="leo.20190102215710.1" a="E"><vh>w17 </vh>
-<v t="leo.20190104145429.2"><vh>12/31放假</vh></v>
+<v t="leo.20190105023356.1"><vh>W15</vh>
+<v t="leo.20190106122548.1" a="E"><vh>W15手臂</vh>
+<v t="leo.20190106122548.2"><vh>機械手臂</vh></v>
 </v>
-<v t="leo.20190106142419.1" a="E"><vh>w18</vh>
-<v t="leo.20190106142419.2"><vh>心得總結</vh></v>
+<v t="leo.20190106105331.1" a="E"><vh>W15成果</vh>
+<v t="leo.20190106105331.2"><vh>學習成果</vh></v>
+</v>
+</v>
+<v t="leo.20190105023350.1"><vh>W16</vh>
+<v t="leo.20190106122621.1" a="E"><vh>W16手臂</vh>
+<v t="leo.20190106122621.2"><vh>機械手臂</vh></v>
+</v>
+<v t="leo.20190106105329.1" a="E"><vh>W16PDF</vh>
+<v t="leo.20190106105329.2"><vh>PDF</vh></v>
+</v>
+</v>
+<v t="leo.20190105023348.1"><vh>W17</vh>
+<v t="leo.20190105023348.2"><vh>12/31放假</vh></v>
+</v>
+<v t="leo.20180827201621.11"><vh>W18</vh>
+<v t="leo.20180827201621.12"><vh>心得總結</vh></v>
 </v>
 </v>
 </v>
@@ -174,6 +174,15 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 
 </t>
+<t tx="leo.20180827201621.11">@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20180827201621.12">
+這次的專題報告，雖然育到了許許多多的困難，比如:一開始做機械手臂的時候，就遇到了設計手臂上的困難，查詢了許多的文獻以及別人的資訊才慢慢畫出一個模樣、還有小組分工上溝通的問題……等
+最後做出的結果大家也是非常得滿意，並且覺得學習到了非常多的東西，這次的專題報告可以說是收穫滿滿
+
+</t>
 <t tx="leo.20180827201621.2"></t>
 <t tx="leo.20180827201621.3">@language xml
 @tabwidth -4
@@ -268,24 +277,73 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20181203101543.1">&lt;section&gt;
-@others
+<t tx="leo.20190105023348.1">@others
 &lt;/section&gt;
 
+&lt;section&gt;
+# w18
 </t>
-<t tx="leo.20181203101543.3"># W10
+<t tx="leo.20190105023348.2">
+* 這周過完就要期末考周了，好好準備期末考，等待考完試後又是一個寒假，必須得做一個好好的衝刺不要因為快放假了就鬆了心，加油
 
-* 1.更新p37&gt;&gt;P37-18.11:https://drive.google.com/file/d/17FpZJrwARPH3_ql4b7d-I4RyJo9vT2Xu/view
 
-* 2.各組討論專題主題
+&lt;p&gt;&lt;i&gt;&lt;font face="serif" color="#77FF00"size="6" &gt;頑張りましょう(gan ban ri ma shou)&lt;/font&gt;&lt;/i&gt;&lt;/p&gt;
 
-* 3.更改網站簡介及blog</t>
-<t tx="leo.20181203102656.1">&lt;section&gt;
+</t>
+<t tx="leo.20190105023350.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
 @others
+						
 &lt;/section&gt;
 
+&lt;section&gt;
+## w17 work-pdf
 </t>
-<t tx="leo.20181203102656.3"># W11
+<t tx="leo.20190105023356.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+						
+&lt;/section&gt;
+
+&lt;section&gt;
+</t>
+<t tx="leo.20190105023357.1">    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+
+						
+&lt;/section&gt;
+
+&lt;section&gt;
+</t>
+<t tx="leo.20190105023401.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+						
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;section data-markdown&gt;
+</t>
+<t tx="leo.20190105023402.1">&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+
+						
+&lt;/section&gt;
+
+&lt;section&gt;
+</t>
+<t tx="leo.20190105023409.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190105023409.2"># W11
 
 * 1.bg7專題題目——機械手臂
 
@@ -293,13 +351,46 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 * 3.我們決定先分工下禮拜開始製作屬於自己的那一部份
 
-我們決定機械手臂的前因是因為我們看到街上有許多夾娃娃機的檯子，那如何夾娃娃呢!就是靠著娃娃機上面的夾爪，於是乎我們這組就決定做機械手臂了</t>
-<t tx="leo.20181203105101.1">&lt;section&gt;
-@others
-&lt;/section&gt;
+我們決定機械手臂的前因是因為我們看到街上有許多夾娃娃機的檯子，那如何夾娃娃呢!就是靠著娃娃機上面的夾爪，於是乎我們這組就決定做機械手臂了
 
 </t>
-<t tx="leo.20181203105101.2">&lt;section data-markdown&gt;
+<t tx="leo.20190105023410.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190105023410.2"># W10
+
+* 1.更新p37&gt;&gt;P37-18.11:https://drive.google.com/file/d/17FpZJrwARPH3_ql4b7d-I4RyJo9vT2Xu/view
+
+* 2.各組討論專題主題
+
+* 3.更改網站簡介及blog
+</t>
+<t tx="leo.20190105145133.1">
+						
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+</t>
+<t tx="leo.20190105145133.2">## W12
+
+* Onshape嘗試去摸索各種功能
+
+* 尋找看看與Inventor有哪些功能上的不同
+</t>
+<t tx="leo.20190105145646.1">						
+&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
@@ -308,9 +399,71 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 
 
-						
 </t>
-<t tx="leo.20181203105101.3"># W12
+<t tx="leo.20190105145646.2">## W13
+
+* Onshape的畫圖能力又進步了一點點
+
+* 這周新增了出缺席表格，讓我們在網站設計的知識又獲得了一項技能
+
+</t>
+<t tx="leo.20190106104326.1">
+						
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+</t>
+<t tx="leo.20190106104326.2">## W14
+
+* 這周因為12/31補課，禮拜四晚上也可以到學校討論報告如何進行與執行
+</t>
+<t tx="leo.20190106105329.1">
+						
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+</t>
+<t tx="leo.20190106105329.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+## w16 work
+
+* 
+
+</t>
+<t tx="leo.20190106105331.1">
+						
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+</t>
+<t tx="leo.20190106105331.2">## W15
+
+* 再推網站的時候，可能是因為同時間推送的問題，網頁整個亂掉連內容原本該有的都不見了，於是請組長重新幫忙排版其他組員想著原本的內容並把它重新推送。
+</t>
+<t tx="leo.20190106122431.1">@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+</t>
+<t tx="leo.20190106122431.2"># W12
 
 * 將一些機械手臂的零件設計出來
 
@@ -318,40 +471,17 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 * 2.底部旋轉軸
 
-* 3.手臂</t>
-<t tx="leo.20181203105101.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
+* 3.手臂
+</t>
+<t tx="leo.20190106122501.1">&lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;
 
 
 
-						
 </t>
-<t tx="leo.20181203105101.5">## W12
-
-* Onshape嘗試去摸索各種功能
-
-* 尋找看看與Inventor有哪些功能上的不同</t>
-<t tx="leo.20181203105102.1">&lt;section&gt;
-@others
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20181203105102.2">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20181203105102.3"># W13
+<t tx="leo.20190106122501.2"># W13
 
 * 繪出機械手臂的剩餘零件並組裝完成
 
@@ -359,145 +489,47 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 * 3.整體機械手臂組裝完成
 
-* 利用V-rep丟進去模擬</t>
-<t tx="leo.20181203105102.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
+* 利用V-rep丟進去模擬
+
+</t>
+<t tx="leo.20190106122526.1">@others
+
     &lt;/script&gt;
 &lt;/section&gt;
 
 
-
-						
 </t>
-<t tx="leo.20181203105102.5">## W13
+<t tx="leo.20190106122526.2"># W14
 
-* Onshape的畫圖能力又進步了一點點
-
-* 這周新增了出缺席表格，讓我們在網站設計的知識又獲得了一項技能</t>
-<t tx="leo.20181210094359.1">&lt;section&gt;
-@others
-&lt;/section&gt;
-
+* 由於我們機械手臂大致上畫出來了但是模擬上出了一些問題，於是乎嘗試著去調整路徑看能不能有所領悟出一些東西
 </t>
-<t tx="leo.20181210094359.2">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
+<t tx="leo.20190106122548.1">&lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
+
     &lt;/script&gt;
 &lt;/section&gt;
 
 
-
-						
 </t>
-<t tx="leo.20181210094359.3"># W14
-
-* 由於我們機械手臂大致上畫出來了但是模擬上出了一些問題，於是乎嘗試著去調整路徑看能不能有所領悟出一些東西</t>
-<t tx="leo.20181210094359.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20181210094359.5">## W14
-
-* 這周因為12/31補課，禮拜四晚上也可以到學校討論報告如何進行與執行</t>
-<t tx="leo.20181217113813.1">&lt;section&gt;
-@others
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20181217113813.2">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20181217113813.3"># W15
+<t tx="leo.20190106122548.2"># W15
 
 * 模擬機械手臂的過程中，今天學到了如何固定心軸並規劃路徑讓零組件去跑
 
-* 希望能在下周之前就把機械手臂的模擬弄完，不然有可能會非常的趕</t>
-<t tx="leo.20181217113813.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
+* 希望能在下周之前就把機械手臂的模擬弄完，不然有可能會非常的趕
+</t>
+<t tx="leo.20190106122621.1">&lt;!-- 請注意, @others 不可以內縮 --&gt;
+# w16
 @others
+
     &lt;/script&gt;
 &lt;/section&gt;
 
 
-
-						
 </t>
-<t tx="leo.20181217113813.5">## W15
-
-* 再推網站的時候，可能是因為同時間推送的問題，網頁整個亂掉連內容原本該有的都不見了，於是請組長重新幫忙排版其他組員想著原本的內容並把它重新推送。</t>
-<t tx="leo.20181224114546.1">&lt;section&gt;
-@others
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20181224114546.2">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20181224114546.3"># w16
-
+<t tx="leo.20190106122621.2">
 * 遇到了最大的困難，程式始終無法做動到自己預期的位置，又因為夾爪不太方便做動的問題，重新製做了一個新的夾爪
 
-* 因為重做了夾爪於是模擬的部分又要重頭做，雖然很累很辛苦但我們會堅持下去的</t>
-<t tx="leo.20181224114546.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
+* 因為重做了夾爪於是模擬的部分又要重頭做，雖然很累很辛苦但我們會堅持下去的
 </t>
-<t tx="leo.20181224114546.5">## w16 work
-
-* </t>
-<t tx="leo.20190102215710.1">&lt;section&gt;
-@others
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20190104145429.2">## w17 work-pdf
-
-* 這周過完就要期末考周了，好好準備期末考，等待考完試後又是一個寒假，必須得做一個好好的衝刺不要因為快放假了就鬆了心，加油
-
-
-&lt;p&gt;&lt;i&gt;&lt;font face="serif" color="#77FF00"size="6" &gt;頑張りましょう(gan ban ri ma shou)&lt;/font&gt;&lt;/i&gt;&lt;/p&gt;</t>
-<t tx="leo.20190106142419.1">&lt;section&gt;
-@others
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20190106142419.2"># w18
-
-這次的專題報告，雖然育到了許許多多的困難，比如:一開始做機械手臂的時候，就遇到了設計手臂上的困難，查詢了許多的文獻以及別人的資訊才慢慢畫出一個模樣、還有小組分工上溝通的問題……等
-最後做出的結果大家也是非常得滿意，並且覺得學習到了非常多的東西，這次的專題報告可以說是收穫滿滿</t>
 </tnodes>
 </leo_file>
