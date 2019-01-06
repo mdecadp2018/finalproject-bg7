@@ -31,7 +31,7 @@
 <v t="leo.20180827201621.10"><vh>w11</vh></v>
 </v>
 <v t="leo.20190105023402.1" a="E"><vh>W12</vh>
-<v t="leo.20190106122431.1"><vh>W12</vh>
+<v t="leo.20190106122431.1" a="E"><vh>W12</vh>
 <v t="leo.20190106122431.2"><vh>機械手臂</vh></v>
 </v>
 <v t="leo.20190105145133.1" a="E"><vh>W12Onshape</vh>
@@ -420,10 +420,18 @@ vertical: body pane on the botton</t>
 
 * 再推網站的時候，可能是因為同時間推送的問題，網頁整個亂掉連內容原本該有的都不見了，於是請組長重新幫忙排版其他組員想著原本的內容並把它重新推送。
 </t>
-<t tx="leo.20190106122431.1">@others
+<t tx="leo.20190106122431.1">
+						
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
 
     &lt;/script&gt;
 &lt;/section&gt;
+
+
+
 
 
 </t>
