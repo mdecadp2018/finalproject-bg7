@@ -31,32 +31,42 @@
 <v t="leo.20190105023409.2"><vh>主題</vh></v>
 </v>
 <v t="leo.20190105023402.1" a="E"><vh>W12</vh>
-<v t="leo.20190105023402.2"><vh>機械手臂</vh></v>
-<v t="leo.20190105145133.1" a="E"><vh>W12</vh>
+<v t="leo.20190106122431.1"><vh>W12</vh>
+<v t="leo.20190106122431.2"><vh>機械手臂</vh></v>
+</v>
+<v t="leo.20190105145133.1"><vh>W12</vh>
 <v t="leo.20190105145133.2"><vh>Onshape</vh></v>
 </v>
 </v>
 <v t="leo.20190105023401.1" a="E"><vh>W13</vh>
-<v t="leo.20190105023401.2"><vh>機械手臂</vh></v>
-<v t="leo.20190105145646.1" a="E"><vh>W13</vh>
+<v t="leo.20190106122501.1"><vh>W13</vh>
+<v t="leo.20190106122501.2"><vh>機械手臂</vh></v>
+</v>
+<v t="leo.20190105145646.1"><vh>W13</vh>
 <v t="leo.20190105145646.2"><vh>Onshape</vh></v>
 </v>
 </v>
 <v t="leo.20190105023357.1" a="E"><vh>W14</vh>
-<v t="leo.20190105023357.2"><vh>機械手臂</vh></v>
-<v t="leo.20190106104326.1" a="E"><vh>W14</vh>
+<v t="leo.20190106122526.1"><vh>W14</vh>
+<v t="leo.20190106122526.2"><vh>機械手臂</vh></v>
+</v>
+<v t="leo.20190106104326.1"><vh>W14</vh>
 <v t="leo.20190106104326.2"><vh>學習成果</vh></v>
 </v>
 </v>
 <v t="leo.20190105023356.1" a="E"><vh>W15</vh>
-<v t="leo.20190105023356.2"><vh>機械手臂</vh></v>
-<v t="leo.20190106105331.1" a="E"><vh>W15</vh>
+<v t="leo.20190106122548.1"><vh>W15</vh>
+<v t="leo.20190106122548.2"><vh>機械手臂</vh></v>
+</v>
+<v t="leo.20190106105331.1"><vh>W15</vh>
 <v t="leo.20190106105331.2"><vh>學習成果</vh></v>
 </v>
 </v>
 <v t="leo.20190105023350.1" a="E"><vh>W16</vh>
-<v t="leo.20190105023350.2"><vh>機械手臂</vh></v>
-<v t="leo.20190106105329.1" a="E"><vh>W16</vh>
+<v t="leo.20190106122621.1"><vh>W16</vh>
+<v t="leo.20190106122621.2"><vh>機械手臂</vh></v>
+</v>
+<v t="leo.20190106105329.1"><vh>W16</vh>
 <v t="leo.20190106105329.2"><vh>PDF</vh></v>
 </v>
 </v>
@@ -176,7 +186,9 @@ Created by [KMOLab](http://lab.kmol.info/)
 <t tx="leo.20180827201621.12"># W18
 
 這次的專題報告，雖然育到了許許多多的困難，比如:一開始做機械手臂的時候，就遇到了設計手臂上的困難，查詢了許多的文獻以及別人的資訊才慢慢畫出一個模樣、還有小組分工上溝通的問題……等
-最後做出的結果大家也是非常得滿意，並且覺得學習到了非常多的東西，這次的專題報告可以說是收穫滿滿</t>
+最後做出的結果大家也是非常得滿意，並且覺得學習到了非常多的東西，這次的專題報告可以說是收穫滿滿
+
+</t>
 <t tx="leo.20180827201621.2"></t>
 <t tx="leo.20180827201621.3">@language xml
 @tabwidth -4
@@ -285,7 +297,9 @@ Created by [KMOLab](http://lab.kmol.info/)
 * 這周過完就要期末考周了，好好準備期末考，等待考完試後又是一個寒假，必須得做一個好好的衝刺不要因為快放假了就鬆了心，加油
 
 
-&lt;p&gt;&lt;i&gt;&lt;font face="serif" color="#77FF00"size="6" &gt;頑張りましょう(gan ban ri ma shou)&lt;/font&gt;&lt;/i&gt;&lt;/p&gt;</t>
+&lt;p&gt;&lt;i&gt;&lt;font face="serif" color="#77FF00"size="6" &gt;頑張りましょう(gan ban ri ma shou)&lt;/font&gt;&lt;/i&gt;&lt;/p&gt;
+
+</t>
 <t tx="leo.20190105023350.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -295,11 +309,6 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20190105023350.2"># W16
-
-* 遇到了最大的困難，程式始終無法做動到自己預期的位置，又因為夾爪不太方便做動的問題，重新製做了一個新的夾爪
-
-*因為重做了夾爪於是模擬的部分又要重頭做，雖然很累很辛苦但我們會堅持下去的</t>
 <t tx="leo.20190105023356.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -308,12 +317,6 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 
 						
-</t>
-<t tx="leo.20190105023356.2"># W15
-
-* 模擬機械手臂的過程中，今天學到了如何固定心軸並規劃路徑讓零組件去跑
-
-*希望能在下周之前就把機械手臂的模擬弄完，不然有可能會非常的趕
 </t>
 <t tx="leo.20190105023357.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -324,10 +327,6 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20190105023357.2"># W14
-
-* 由於我們機械手臂大致上畫出來了但是模擬上出了一些問題，於是乎嘗試著去調整路徑看能不能有所領悟出一些東西
-</t>
 <t tx="leo.20190105023401.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -337,17 +336,6 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20190105023401.2"># W13
-
-* 繪出機械手臂的剩餘零件並組裝完成
-
-*1.伺服馬達
-
-*3.整體機械手臂組裝完成
-
-*利用V-rep丟進去模擬
-
-</t>
 <t tx="leo.20190105023402.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -356,16 +344,6 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 
 						
-</t>
-<t tx="leo.20190105023402.2"># W12
-
-*將一些機械手臂的零件設計出來
-
-*1.基本底座
-
-*2.底部旋轉軸
-
-*3.手臂
 </t>
 <t tx="leo.20190105023409.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -384,7 +362,9 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 *3.我們決定先分工下禮拜開始製作屬於自己的那一部份
 
-我們決定機械手臂的前因是因為我們看到街上有許多夾娃娃機的檯子，那如何夾娃娃呢!就是靠著娃娃機上面的夾爪，於是乎我們這組就決定做機械手臂了</t>
+我們決定機械手臂的前因是因為我們看到街上有許多夾娃娃機的檯子，那如何夾娃娃呢!就是靠著娃娃機上面的夾爪，於是乎我們這組就決定做機械手臂了
+
+</t>
 <t tx="leo.20190105023410.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -472,6 +452,88 @@ Created by [KMOLab](http://lab.kmol.info/)
 <t tx="leo.20190106105331.2"># W15
 
 * 再推網站的時候，可能是因為同時間推送的問題，網頁整個亂掉連內容原本該有的都不見了，於是請組長重新幫忙排版其他組員想著原本的內容並把它重新推送。
+</t>
+<t tx="leo.20190106122431.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190106122431.2"># W12
+
+*將一些機械手臂的零件設計出來
+
+*1.基本底座
+
+*2.底部旋轉軸
+
+*3.手臂
+</t>
+<t tx="leo.20190106122501.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190106122501.2"># W13
+
+* 繪出機械手臂的剩餘零件並組裝完成
+
+*1.伺服馬達
+
+*3.整體機械手臂組裝完成
+
+*利用V-rep丟進去模擬
+
+</t>
+<t tx="leo.20190106122526.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190106122526.2"># W14
+
+* 由於我們機械手臂大致上畫出來了但是模擬上出了一些問題，於是乎嘗試著去調整路徑看能不能有所領悟出一些東西
+</t>
+<t tx="leo.20190106122548.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190106122548.2"># W15
+
+* 模擬機械手臂的過程中，今天學到了如何固定心軸並規劃路徑讓零組件去跑
+
+*希望能在下周之前就把機械手臂的模擬弄完，不然有可能會非常的趕
+</t>
+<t tx="leo.20190106122621.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190106122621.2"># W16
+
+* 遇到了最大的困難，程式始終無法做動到自己預期的位置，又因為夾爪不太方便做動的問題，重新製做了一個新的夾爪
+
+*因為重做了夾爪於是模擬的部分又要重頭做，雖然很累很辛苦但我們會堅持下去的
 </t>
 </tnodes>
 </leo_file>
