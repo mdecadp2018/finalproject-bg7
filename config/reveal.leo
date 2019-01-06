@@ -21,17 +21,17 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
-<v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
+<v t="leo.20190106143811.1"><vh>封面投影片</vh>
+<v t="leo.20190106143811.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20190105023410.1" a="E"><vh>W10</vh>
-<v t="leo.20190105023410.2"><vh>更新環境</vh></v>
+<v t="leo.20190106143809.1" a="E"><vh>W10</vh>
+<v t="leo.20190106143809.2"><vh>w10</vh></v>
 </v>
-<v t="leo.20190105023409.1" a="E"><vh>W11</vh>
-<v t="leo.20190105023409.2"><vh>主題</vh></v>
+<v t="leo.20180827201621.9" a="E"><vh>W11</vh>
+<v t="leo.20180827201621.10"><vh>w11</vh></v>
 </v>
-<v t="leo.20190105023402.1" a="E"><vh>W12</vh>
-<v t="leo.20190106122431.1" a="E"><vh>W12</vh>
+<v t="leo.20190105023402.1"><vh>W12</vh>
+<v t="leo.20190106122431.1"><vh>W12</vh>
 <v t="leo.20190106122431.2"><vh>機械手臂</vh></v>
 </v>
 <v t="leo.20190105145133.1" a="E"><vh>W12Onshape</vh>
@@ -162,15 +162,16 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 2018 Fall Finalproject-bg7 分組網際簡報
+<t tx="leo.20180827201621.10"># W11
 
-### 虎科大機械設計工程系
+* 1.bg7專題題目——機械手臂
 
-&lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
-&lt;/small&gt;
+* 2.各組員自行蒐集機械手臂設計之文獻，並確定好要做的機械手臂類型
 
-[2018 Fall Finalproject-bg7](https://mdecadp2018.github.io/finalproject-bg7/blog/index.html)
+* 3.我們決定先分工下禮拜開始製作屬於自己的那一部份
+
+我們決定機械手臂的前因是因為我們看到街上有許多夾娃娃機的檯子，那如何夾娃娃呢!就是靠著娃娃機上面的夾爪，於是乎我們這組就決定做機械手臂了。
+
 
 
 </t>
@@ -334,43 +335,6 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 &lt;section&gt;
 </t>
-<t tx="leo.20190105023409.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190105023409.2"># W11
-
-* 1.bg7專題題目——機械手臂
-
-* 2.各組員自行蒐集機械手臂設計之文獻，並確定好要做的機械手臂類型
-
-* 3.我們決定先分工下禮拜開始製作屬於自己的那一部份
-
-我們決定機械手臂的前因是因為我們看到街上有許多夾娃娃機的檯子，那如何夾娃娃呢!就是靠著娃娃機上面的夾爪，於是乎我們這組就決定做機械手臂了
-
-</t>
-<t tx="leo.20190105023410.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190105023410.2"># W10
-
-* 1.更新p37&gt;&gt;P37-18.11:https://drive.google.com/file/d/17FpZJrwARPH3_ql4b7d-I4RyJo9vT2Xu/view
-
-* 2.各組討論專題主題
-
-* 3.更改網站簡介及blog
-</t>
 <t tx="leo.20190105145133.1">
 						
 &lt;section data-markdown&gt;
@@ -530,6 +494,46 @@ Created by [KMOLab](http://lab.kmol.info/)
 * 遇到了最大的困難，程式始終無法做動到自己預期的位置，又因為夾爪不太方便做動的問題，重新製做了一個新的夾爪
 
 * 因為重做了夾爪於是模擬的部分又要重頭做，雖然很累很辛苦但我們會堅持下去的
+</t>
+<t tx="leo.20190106143809.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190106143809.2"># W10
+
+* 1.更新p37&gt;&gt;P37-18.11:https://drive.google.com/file/d/17FpZJrwARPH3_ql4b7d-I4RyJo9vT2Xu/view
+
+* 2.各組討論專題主題
+
+* 3.更改網站簡介及blog
+
+
+</t>
+<t tx="leo.20190106143811.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190106143811.2">## 2018 Fall Finalproject-bg7 分組網際簡報
+
+### 虎科大機械設計工程系
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[2018 Fall Finalproject-bg7](https://mdecadp2018.github.io/finalproject-bg7/blog/index.html)
+
+
 </t>
 </tnodes>
 </leo_file>
