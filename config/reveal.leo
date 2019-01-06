@@ -356,11 +356,11 @@ Created by [KMOLab](http://lab.kmol.info/)
 </t>
 <t tx="leo.20190105023409.2"># W11
 
-*1.bg7專題題目——機械手臂
+* 1.bg7專題題目——機械手臂
 
-*2.各組員自行蒐集機械手臂設計之文獻，並確定好要做的機械手臂類型
+* 2.各組員自行蒐集機械手臂設計之文獻，並確定好要做的機械手臂類型
 
-*3.我們決定先分工下禮拜開始製作屬於自己的那一部份
+* 3.我們決定先分工下禮拜開始製作屬於自己的那一部份
 
 我們決定機械手臂的前因是因為我們看到街上有許多夾娃娃機的檯子，那如何夾娃娃呢!就是靠著娃娃機上面的夾爪，於是乎我們這組就決定做機械手臂了
 
@@ -376,11 +376,11 @@ Created by [KMOLab](http://lab.kmol.info/)
 </t>
 <t tx="leo.20190105023410.2"># W10
 
-*1.更新p37&gt;&gt;P37-18.11:https://drive.google.com/file/d/17FpZJrwARPH3_ql4b7d-I4RyJo9vT2Xu/view
+* 1.更新p37&gt;&gt;P37-18.11:https://drive.google.com/file/d/17FpZJrwARPH3_ql4b7d-I4RyJo9vT2Xu/view
 
-*2.各組討論專題主題
+* 2.各組討論專題主題
 
-*3.更改網站簡介及blog
+* 3.更改網站簡介及blog
 </t>
 <t tx="leo.20190105145133.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -393,9 +393,9 @@ Created by [KMOLab](http://lab.kmol.info/)
 </t>
 <t tx="leo.20190105145133.2">## W12
 
-*Onshape嘗試去摸索各種功能
+* Onshape嘗試去摸索各種功能
 
-*尋找看看與Inventor有哪些功能上的不同
+* 尋找看看與Inventor有哪些功能上的不同
 </t>
 <t tx="leo.20190105145646.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -410,7 +410,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 * Onshape的畫圖能力又進步了一點點
 
-*這周新增了出缺席表格，讓我們在網站設計的知識又獲得了一項技能
+* 這周新增了出缺席表格，讓我們在網站設計的知識又獲得了一項技能
 
 </t>
 <t tx="leo.20190106104326.1">&lt;section data-markdown&gt;
@@ -424,7 +424,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 </t>
 <t tx="leo.20190106104326.2">## W14
 
-*這周因為12/31補課，禮拜四晚上也可以到學校討論報告如何進行與執行
+* 這周因為12/31補課，禮拜四晚上也可以到學校討論報告如何進行與執行
 </t>
 <t tx="leo.20190106105329.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -464,13 +464,13 @@ Created by [KMOLab](http://lab.kmol.info/)
 </t>
 <t tx="leo.20190106122431.2"># W12
 
-*將一些機械手臂的零件設計出來
+* 將一些機械手臂的零件設計出來
 
-*1.基本底座
+* 1.基本底座
 
-*2.底部旋轉軸
+* 2.底部旋轉軸
 
-*3.手臂
+* 3.手臂
 </t>
 <t tx="leo.20190106122501.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -485,11 +485,11 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 * 繪出機械手臂的剩餘零件並組裝完成
 
-*1.伺服馬達
+* 1.伺服馬達
 
-*3.整體機械手臂組裝完成
+* 3.整體機械手臂組裝完成
 
-*利用V-rep丟進去模擬
+* 利用V-rep丟進去模擬
 
 </t>
 <t tx="leo.20190106122526.1">&lt;section data-markdown&gt;
@@ -518,7 +518,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 * 模擬機械手臂的過程中，今天學到了如何固定心軸並規劃路徑讓零組件去跑
 
-*希望能在下周之前就把機械手臂的模擬弄完，不然有可能會非常的趕
+* 希望能在下周之前就把機械手臂的模擬弄完，不然有可能會非常的趕
 </t>
 <t tx="leo.20190106122621.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -533,7 +533,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 * 遇到了最大的困難，程式始終無法做動到自己預期的位置，又因為夾爪不太方便做動的問題，重新製做了一個新的夾爪
 
-*因為重做了夾爪於是模擬的部分又要重頭做，雖然很累很辛苦但我們會堅持下去的
+* 因為重做了夾爪於是模擬的部分又要重頭做，雖然很累很辛苦但我們會堅持下去的
 </t>
 </tnodes>
 </leo_file>
